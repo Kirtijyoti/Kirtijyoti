@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="238" viewBox="0 0 840 238" role="img" aria-labelledby="title desc">
+  <title id="title">Languages in public code</title>
+  <desc id="desc">GitHub public repository code by bytes, as of 3 November 2026: Java 31,278 bytes, 95.9 percent; Dockerfile 1,350 bytes, 4.1 percent. Profile artwork is excluded. These percentages do not measure proficiency.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1224"/><stop offset="1" stop-color="#102a38"/></linearGradient>
+    <clipPath id="bar"><rect x="32" y="108" width="776" height="28" rx="14"/></clipPath>
+  </defs>
+  <rect x="0.5" y="0.5" width="839" height="237" rx="18" fill="url(#bg)" stroke="#25424c"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="32" y="42" font-size="24" font-weight="700" fill="#f1f5f9">Languages in public code</text>
+    <text x="32" y="72" font-size="15" fill="#94a3b8">BY CODE BYTES · SNAPSHOT 03 NOV 2026</text>
+    <g clip-path="url(#bar)">
+      <rect x="32" y="108" width="776" height="28" fill="#38bdf8"/>
+      <rect x="32" y="108" width="743.8926" height="28" fill="#f59e62"/>
+    </g>
+    <circle cx="40" cy="174" r="6" fill="#f59e62"/>
+    <text x="56" y="181" font-size="22" font-weight="600" fill="#f1f5f9">Java</text>
+    <text x="176" y="181" font-size="22" fill="#f1f5f9">95.9%</text>
+    <circle cx="440" cy="174" r="6" fill="#38bdf8"/>
+    <text x="456" y="181" font-size="22" font-weight="600" fill="#f1f5f9">Dockerfile</text>
+    <text x="670" y="181" font-size="22" fill="#f1f5f9">4.1%</text>
+    <text x="32" y="215" font-size="14" fill="#94a3b8">Public source only · profile artwork excluded · not a proficiency score</text>
+  </g>
+</svg>

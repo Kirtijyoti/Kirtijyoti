@@ -1,0 +1,45 @@
+{
+  "snapshot_date": "2026-11-03",
+  "metric": "GitHub repository language bytes",
+  "scope": "Four existing public code repositories; private repositories and profile artwork excluded",
+  "repositories": [
+    {
+      "name": "patient-management",
+      "source": "https://api.github.com/repos/Kirtijyoti/patient-management/languages",
+      "bytes": {
+        "Java": 22490,
+        "Dockerfile": 1350
+      }
+    },
+    {
+      "name": "java-backend-foundations",
+      "source": "https://api.github.com/repos/Kirtijyoti/java-backend-foundations/languages",
+      "bytes": {
+        "Java": 8788
+      }
+    },
+    {
+      "name": "PythonLearnings",
+      "source": "https://api.github.com/repos/Kirtijyoti/PythonLearnings/languages",
+      "bytes": {}
+    },
+    {
+      "name": "LovableClone",
+      "source": "https://api.github.com/repos/Kirtijyoti/LovableClone/languages",
+      "bytes": {}
+    }
+  ],
+  "totals": {
+    "Java": 31278,
+    "Dockerfile": 1350
+  },
+  "total_bytes": 32628,
+  "percentages_rounded": {
+    "Java": 95.9,
+    "Dockerfile": 4.1
+  },
+  "notes": [
+    "Empty language responses are not evidence of language proficiency.",
+    "This is a static snapshot, not a live widget or skill rating."
+  ]
+}

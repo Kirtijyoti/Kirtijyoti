@@ -2,41 +2,41 @@
 
 ![Kirtijyoti Senapati — Java Backend Developer](./banner.svg)
 
-[LinkedIn](https://www.linkedin.com/in/kirtijyoti-senapati-a1a027184/) · [LeetCode](https://leetcode.com/u/Kirtijyotisenapati/) · [Repositories](https://github.com/Kirtijyoti?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/kirtijyoti-senapati-a1a027184/) · [LeetCode](https://leetcode.com/u/Kirtijyotisenapati/)
 
 </div>
 
-## Hi, I'm Kirtijyoti
+## Java backend development, from features to production support
 
-I'm a **Java Backend Developer** and **System Engineer at Tata Consultancy Services**, with five years of experience developing and supporting enterprise backend applications. Based in **Bhubaneswar, India**, I work with Spring Boot, microservices, REST APIs and PostgreSQL.
+I'm **Kirtijyoti**, a **System Engineer at Tata Consultancy Services** with five years in Java backend development. I build and support Spring Boot services, REST APIs and database-backed applications.
 
-My professional work includes backend features, service integrations, SQL optimization, unit testing and production troubleshooting. I also explore how AI can support application development through personal projects and learning.
+My work spans feature development, service integrations, SQL optimization, unit testing and production troubleshooting. I enjoy tracing a problem across the API, service and database layers and making the fix easier to maintain.
 
-### Backend engineering
+### What I work with
 
-| Area | Technologies and practices |
+| Area | Toolkit |
 | :--- | :--- |
-| Java & APIs | Java 8 / 11 / 17, Spring Boot, REST APIs, microservices |
-| Persistence | SQL, PostgreSQL, Spring Data JPA, Hibernate |
-| Reliability & testing | Resilience4j, JUnit, Mockito, exception handling |
+| Backend | Java 8 / 11 / 17, Spring Boot, REST APIs, microservices |
+| Data | PostgreSQL, SQL, Spring Data JPA, Hibernate |
+| Quality & reliability | JUnit, Mockito, Resilience4j, exception handling |
 | Delivery | Git, Jenkins, CI/CD, Agile / Scrum |
 
-### Featured project
+### What I'm building on
 
-#### [Patient Management](https://github.com/Kirtijyoti/patient-management)
+- **AI application development:** personal work with Spring AI and Retrieval-Augmented Generation (RAG).
+- **Cloud & distributed systems:** AWS knowledge; personal exploration of Spring Cloud, Kafka, Redis, Docker and Kubernetes.
+- **Developer tools:** Claude for AI-assisted development, prompt engineering and agentic AI concepts.
 
-A Java/Spring Boot microservices project organized into patient, billing, authentication and analytics services, with an API gateway. The patient service targets Java 21 and Spring Boot 3.4.1, with PostgreSQL, Kafka and gRPC/Protobuf dependencies, sample requests and a Dockerfile.
+### Languages in my public code
 
-**Stack:** Java 21 · Spring Boot 3.4 · PostgreSQL · Kafka · gRPC · Docker
+![Public code by bytes: Java 95.9%, Dockerfile 4.1%. Snapshot: 3 November 2026.](./languages.svg)
 
-### AI, cloud & personal exploration
+Based on GitHub's language data for my public code repositories. This measures code size, not proficiency. [Data and sources](./language-data.json).
 
-- **Personal project experience:** Spring AI, Retrieval-Augmented Generation (RAG), Spring Cloud, Kafka, Redis, Docker and Kubernetes.
-- **Cloud knowledge:** Amazon Web Services (AWS).
-- **AI familiarity:** Agentic AI concepts, Claude for AI-assisted development and prompt engineering.
+### Connect
 
-### Let's connect
+Based in **Bhubaneswar, India**. Interested in **Java Backend** and **Spring Boot Microservices** roles, including opportunities involving **AI and RAG**.
 
-I'm interested in **Java Backend** and **Spring Boot Microservices** opportunities, including roles involving **AI and RAG**.
+[Find me on LinkedIn](https://www.linkedin.com/in/kirtijyoti-senapati-a1a027184/) · [My LeetCode practice](https://leetcode.com/u/Kirtijyotisenapati/)
 
-Find me on [LinkedIn](https://www.linkedin.com/in/kirtijyoti-senapati-a1a027184/) or explore my [LeetCode profile](https://leetcode.com/u/Kirtijyotisenapati/).
+<!-- Optional view counter is documented in METRICS.md. Keep it inactive while this profile README is private. -->
