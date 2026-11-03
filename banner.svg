@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Kirtijyoti Senapati — Java Backend Developer</title>
+  <desc id="desc">System Engineer at TCS with five years of experience. Java, Spring Boot, microservices and PostgreSQL. Based in Bhubaneswar, India.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1224"/>
+      <stop offset="1" stop-color="#102a38"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94a3b8" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" rx="22" fill="url(#background)"/>
+  <rect width="1280" height="320" rx="22" fill="url(#grid)"/>
+  <ellipse cx="1100" cy="140" rx="340" ry="270" fill="url(#glow)"/>
+  <rect x="0" y="32" width="5" height="256" rx="2.5" fill="#2dd4bf"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="56" y="56" fill="#5eead4" font-size="14" font-weight="700" letter-spacing="3">BACKEND ENGINEERING</text>
+    <text x="52" y="124" fill="#f1f5f9" font-size="52" font-weight="700" letter-spacing="-1.5">Kirtijyoti Senapati</text>
+    <text x="56" y="170" fill="#cbd5e1" font-size="26" font-weight="400">Java Backend Developer</text>
+    <text x="56" y="210" fill="#94a3b8" font-size="18">System Engineer at TCS · 5 years · Bhubaneswar, India</text>
+    <g font-size="15" font-weight="600" fill="#d7f9f1">
+      <rect x="56" y="246" width="69" height="33" rx="16.5" fill="#183a43" stroke="#2dd4bf" stroke-opacity="0.25"/>
+      <text x="90.5" y="267.5" text-anchor="middle">Java</text>
+      <rect x="137" y="246" width="125" height="33" rx="16.5" fill="#183a43" stroke="#2dd4bf" stroke-opacity="0.25"/>
+      <text x="199.5" y="267.5" text-anchor="middle">Spring Boot</text>
+      <rect x="274" y="246" width="139" height="33" rx="16.5" fill="#183a43" stroke="#2dd4bf" stroke-opacity="0.25"/>
+      <text x="343.5" y="267.5" text-anchor="middle">Microservices</text>
+      <rect x="425" y="246" width="124" height="33" rx="16.5" fill="#183a43" stroke="#2dd4bf" stroke-opacity="0.25"/>
+      <text x="487" y="267.5" text-anchor="middle">PostgreSQL</text>
+    </g>
+  </g>
+  <g transform="translate(948 66)" fill="none" stroke-linecap="round">
+    <path d="M0 94H57M175 94H232M116 42V0M116 146V188" stroke="#2dd4bf" stroke-width="2" stroke-opacity="0.4"/>
+    <path d="M0 94V24H116M232 94V164H116" stroke="#38bdf8" stroke-width="1.5" stroke-opacity="0.2"/>
+    <rect x="57" y="42" width="118" height="104" rx="20" fill="#122f3c" stroke="#5eead4" stroke-width="1.5" stroke-opacity="0.65"/>
+    <rect x="76" y="64" width="80" height="12" rx="4" fill="#2dd4bf" fill-opacity="0.16" stroke="none"/>
+    <path d="M82 95H118M82 109H145M82 123H132" stroke="#7dd3fc" stroke-width="3" stroke-opacity="0.55"/>
+    <g fill="#102b39" stroke="#2dd4bf" stroke-width="2">
+      <circle cx="0" cy="94" r="9"/>
+      <circle cx="232" cy="94" r="9"/>
+      <circle cx="116" cy="0" r="9"/>
+      <circle cx="116" cy="188" r="9"/>
+    </g>
+    <g fill="#5eead4" stroke="none">
+      <circle cx="0" cy="94" r="3"/>
+      <circle cx="232" cy="94" r="3"/>
+      <circle cx="116" cy="0" r="3"/>
+      <circle cx="116" cy="188" r="3"/>
+    </g>
+  </g>
+</svg>
