@@ -21,19 +21,13 @@ My professional work includes backend features, service integrations, SQL optimi
 | Reliability & testing | Resilience4j, JUnit, Mockito, exception handling |
 | Delivery | Git, Jenkins, CI/CD, Agile / Scrum |
 
-### Selected repositories
+### Featured project
 
 #### [Patient Management](https://github.com/Kirtijyoti/patient-management)
 
-A Java/Spring Boot microservices repository organized into patient, billing, authentication and analytics services, with an API gateway. The codebase includes PostgreSQL, Kafka, gRPC/Protobuf, API request examples and a Dockerfile for the patient service.
+A Java/Spring Boot microservices project organized into patient, billing, authentication and analytics services, with an API gateway. The patient service targets Java 21 and Spring Boot 3.4.1, with PostgreSQL, Kafka and gRPC/Protobuf dependencies, sample requests and a Dockerfile.
 
 **Stack:** Java 21 · Spring Boot 3.4 · PostgreSQL · Kafka · gRPC · Docker
-
-#### [Java Backend Foundations](https://github.com/Kirtijyoti/java-backend-foundations)
-
-Java practice covering object-oriented programming, polymorphism, collections and sorting. Examples include books, products and payments, alongside student lists, maps and sorting demonstrations.
-
-**Explore:** Java fundamentals and small, focused examples.
 
 ### AI, cloud & personal exploration
 
