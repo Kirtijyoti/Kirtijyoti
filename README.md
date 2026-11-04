@@ -4,6 +4,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/kirtijyoti-senapati-a1a027184/) · [LeetCode](https://leetcode.com/u/Kirtijyotisenapati/)
 
+![Profile views](https://komarev.com/ghpvc/?username=Kirtijyoti&style=flat-square&color=0f766e)
+
 </div>
 
 ## Java backend development, from features to production support
@@ -39,4 +41,4 @@ Based in **Bhubaneswar, India**. Interested in **Java Backend** and **Spring Boo
 
 [Find me on LinkedIn](https://www.linkedin.com/in/kirtijyoti-senapati-a1a027184/) · [My LeetCode practice](https://leetcode.com/u/Kirtijyotisenapati/)
 
-<!-- Optional view counter is documented in METRICS.md. Keep it inactive while this profile README is private. -->
+<!-- Counter details and language snapshot refresh notes are documented in METRICS.md. -->
