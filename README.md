@@ -1,6 +1,6 @@
 <div align="center">
 
-![Kirtijyoti Senapati — Java Backend Developer](./banner.svg)
+![Kirtijyoti Senapati — Java Backend Developer](https://raw.githubusercontent.com/Kirtijyoti/Kirtijyoti/3804acdbb453c4996351a5a7fbfd7434b08f0872/banner.svg)
 
 [LinkedIn](https://www.linkedin.com/in/kirtijyoti-senapati-a1a027184/) · [LeetCode](https://leetcode.com/u/Kirtijyotisenapati/)
 
