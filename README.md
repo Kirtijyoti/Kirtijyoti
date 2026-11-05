@@ -4,7 +4,12 @@
 
 [LinkedIn](https://www.linkedin.com/in/kirtijyoti-senapati-a1a027184/) · [LeetCode](https://leetcode.com/u/Kirtijyotisenapati/)
 
+<!-- profile-view-counter:start -->
+<!-- Visibility control: comment out the badge below to hide it; uncomment it to show it. Hiding does not pause or reset the external counter. -->
+
 ![Profile views](https://komarev.com/ghpvc/?username=Kirtijyoti&style=flat-square&color=0f766e)
+
+<!-- profile-view-counter:end -->
 
 </div>
 
